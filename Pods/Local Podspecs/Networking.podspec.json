@@ -1,0 +1,26 @@
+{
+  "name": "Networking",
+  "version": "0.1.0",
+  "summary": "A short description of Networking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ankchdry/Networking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ankchdry": "ankit.chaudhary@oxfordcaps.com"
+  },
+  "source": {
+    "git": "https://github.com/ankchdry/Networking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_versions": [
+    "4.2"
+  ],
+  "source_files": "Networking/Classes/**/*",
+  "swift_version": "4.2"
+}
